@@ -1,4 +1,4 @@
-Para o Projeto abaixo você precisa
+Para o Projeto você precisa
 
 - Instalar as dependências:
 👉 npm install
