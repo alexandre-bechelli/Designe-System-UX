@@ -1,9 +1,10 @@
-📦 Como Iniciar o Projeto
-Instale as dependências:
+Para o Projeto abaixo você precisa
+
+- Instalar as dependências:
 👉 npm install
 
-Rode o servidor de desenvolvimento:
+ - Rodar o servidor de desenvolvimento:
 👉 npm run dev
 
-Acesse no navegador:
+- Acessar no navegador:
 👉 http://localhost:3000
