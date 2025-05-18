@@ -8,3 +8,7 @@ Para o Projeto você precisa
 
 - Acessar no navegador:
 👉 http://localhost:3000
+
+Para verificar o Storybook do projeto você deve
+- Rodar o storybook do projeto
+👉 npm run storybook
